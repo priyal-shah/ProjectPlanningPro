@@ -1,0 +1,116 @@
+.navText{
+	color: black;
+}
+
+.home-img{
+	height: 80vh;
+	width: 40vw;
+	
+}
+
+
+
+.div1 , .div2{
+	height: 100vh;
+	width: 100vw;
+}
+
+
+
+
+
+
+
+@media screen and (max-width:375px) {
+	.signup-btn {
+		height: 5vh;
+	}
+
+	.google {
+		font-size: 70%;
+	}
+
+	.google-img {
+		width: 20vw;
+	}
+	
+}
+
+@media screen and (min-width:376)and (max-width:450px) {
+	.signup-btn {
+		height: 10vh;
+	}
+	
+	.home-img{
+		height: 90%;
+		width: 90%;
+	}
+}
+
+
+@media screen and (min-width:451px) and(max-width:767px) {
+	.signup-btn {
+		height: 5vh;
+	}
+	
+	.home-img{
+		height: 90%;
+		width: 90%;
+	}
+	
+}
+
+
+@media screen and (min-width:768px) and(max-width:819px) {
+	.signup-btn {
+		height: 3vh;
+	}
+	
+	
+	.home-img{
+		height: 90%;
+		width: 90%;
+	}
+	
+	
+}
+
+@media screen and (min-width:820px) and (max-width:911px) {
+	.signup-btn {
+		height: 4vh;
+	}
+
+
+	.home-img{
+		height: 90%;
+		width: 90%;
+	}
+	
+	
+}
+
+@media screen and (min-width:912px) and (max-width:1023px) {
+	.signup-btn {
+		height: 4vh;
+	}
+	
+
+	
+	.home-img{
+		height: 90%;
+		width: 90%;
+	}
+	
+}
+
+@media screen and (min-width:1024px) {
+	.signup-btn {
+		height: 8vh;
+	}
+	
+	
+	.home-img{
+		height: 90%;
+		width: 90%;
+	}
+}
